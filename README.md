@@ -1,6 +1,6 @@
-Descripción de los datos
+# Descripción de los datos
 
-Características
+## Información del conjunto de datos.
 
 `RowNumber`: índice de cadena de datos
 `CustomerId`: identificador de cliente único
